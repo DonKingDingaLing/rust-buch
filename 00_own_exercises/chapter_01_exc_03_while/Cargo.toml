@@ -1,7 +1,6 @@
 [package]
-name = "hello_world_01"
+name = "chapter_01_exc_03_while"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-hex = "0.4.3"
