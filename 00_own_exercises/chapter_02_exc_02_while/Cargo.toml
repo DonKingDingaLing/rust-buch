@@ -1,5 +1,5 @@
 [package]
-name = "chapter_01_exc_02_loop"
+name = "chapter_02_exc_02_while"
 version = "0.1.0"
 edition = "2021"
 

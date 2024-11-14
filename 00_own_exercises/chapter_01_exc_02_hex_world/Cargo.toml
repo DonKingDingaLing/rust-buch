@@ -1,6 +1,7 @@
 [package]
-name = "chapter_01_exc_04_for"
+name = "chapter_01_exc_02_hex_world"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+hex = "0.4.3"
