@@ -1,0 +1,6 @@
+[package]
+name = "chapter_04_lis_06_scalar_casting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

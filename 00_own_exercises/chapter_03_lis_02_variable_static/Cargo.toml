@@ -1,0 +1,6 @@
+[package]
+name = "chapter_03_lis_02_variable_static"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "chapter_04_lis_07_tuples_simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
