@@ -1,0 +1,6 @@
+[package]
+name = "chapter_04_lis_15_enums_complex"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

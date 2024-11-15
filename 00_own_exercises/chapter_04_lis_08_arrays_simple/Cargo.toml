@@ -1,0 +1,6 @@
+[package]
+name = "chapter_04_lis_08_arrays_simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
